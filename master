@@ -1,1 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="/CSS/Style.css" type="text/css" media="all"/>
+        <title>Relogio</title>
+    </head>
+    <body>
+        <section class="relogio">
+            <div class="horas"><span>00</span></div>
+            <div class="minutos"><span>00</span></div>
+            <div class="segundos"><span>00</span></div>
+        </section>
+    </body>
+</html>
 
